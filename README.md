@@ -1,8 +1,9 @@
 # Awesome low-code!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/antdimot/awesome-lowcode)
 
-A collection of awesome low-code development platform ([LCDP](https://en.wikipedia.org/wiki/Low-code_development_platform)). Everyone is welcome to submit their new awesome-lowcode item.
+A collection of Awesome low-code development platform ([LCDP](https://en.wikipedia.org/wiki/Low-code_development_platform)).
+Everyone is welcome to submit their new Awesome low-code item.
 
 # License
 
@@ -19,39 +20,39 @@ A collection of awesome low-code development platform ([LCDP](https://en.wikiped
 
 ## Automation
 
-* [integromat](https://www.integromat.com) - The most advanced online automation platform.
-* [phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
-* [uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
+* [Integromat](https://www.integromat.com) - The most advanced online automation platform.
+* [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
+* [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
 
 ## Flow-based programming
 
-* [funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
-* [ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
-* [parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
-* [zapier](https://zapier.com) - Connect your apps and automate workflows.
+* [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
+* [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
+* [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
+* [Zapier](https://zapier.com) - Connect your apps and automate workflows.
 
 ## Online database creator apps
 
-* [airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
-* [retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
+* [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
+* [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 
 ## Visual programming
 
-* [adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
-* [boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
+* [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
+* [Boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
 * [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
-* [glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
-* [webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
+* [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
+* [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
+* [Webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
 ## Misc
 
-* [makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
-* [fibery](https://fibery.io) - Build your own workspace.
-* [shopy](https://shopify.com/) - Build your business.
-* [stripe](https://stripe.com) - The new standard in online payments.
-* [voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
-* [zendesk](https://www.zendesk.com/) - Build the best customer experiences.
-
+* [Fibery](https://fibery.io) - Build your own workspace.
+* [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+* [Shopy](https://shopify.com/) - Build your business.
+* [Stripe](https://stripe.com) - The new standard in online payments.
+* [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
+* [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 
 
 
