@@ -50,7 +50,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
-* [Shopy](https://shopify.com/) - Build your business.
+* [Shopify](https://shopify.com/) - Build your business.
 * [Stripe](https://stripe.com) - The new standard in online payments.
 * [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
