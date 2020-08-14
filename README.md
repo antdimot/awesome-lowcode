@@ -26,6 +26,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Flow-based programming
 
+* [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
