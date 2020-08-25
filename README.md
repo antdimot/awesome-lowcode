@@ -20,6 +20,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Automation
 
+* [Appian](https://www.appian.com/) - Discover the power of low-code automation.
 * [Integromat](https://www.integromat.com) - The most advanced online automation platform.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
