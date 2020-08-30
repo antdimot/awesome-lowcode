@@ -50,6 +50,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
+* [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 * [Webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
 ## Misc
