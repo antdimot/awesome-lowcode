@@ -45,6 +45,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Visual programming
 
 * [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
+* [Appbase.io](https://www.appbase.io) - Elasticsearch supercharged.
 * [Boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
 * [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
@@ -52,6 +53,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
+* [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 * [Webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
