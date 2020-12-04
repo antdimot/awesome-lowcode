@@ -29,6 +29,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
+* [n8n.io](https://n8n.io/) - Extendable workflow automation.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
