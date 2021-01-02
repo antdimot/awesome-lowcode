@@ -13,6 +13,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 # Table of Contents
 
 * [Automation](#automation)
+* [Educational](#educational)
 * [Flow-based programming](#flow-based-programming)
 * [Online database creator apps](#online-database-creator-apps)
 * [Visual programming](#visual-programming)
@@ -24,6 +25,10 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Integromat](https://www.integromat.com) - The most advanced online automation platform.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
+
+## Educational
+
+* [Markerpad](https://www.makerpad.co/) - Join thousands learning to build software. No coding required.
 
 ## Flow-based programming
 
