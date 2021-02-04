@@ -67,6 +67,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Misc
 
+* [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 * [Shopify](https://shopify.com/) - Build your business.
