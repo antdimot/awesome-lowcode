@@ -63,6 +63,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
 * [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
+* [Stacker](https://stacker.app) - Turn your spreadsheets into applications.
 * [Webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
 ## Misc
