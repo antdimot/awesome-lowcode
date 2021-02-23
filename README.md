@@ -33,6 +33,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Flow-based programming
 
+* [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
 * [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 * [n8n.io](https://n8n.io/) - Extendable workflow automation.
