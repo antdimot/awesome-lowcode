@@ -61,6 +61,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
+* [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
@@ -74,6 +75,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+* [placeid](https://placid.app/) - Generate your social share images automatically.
+* [Screenshot](https://www.screenshotapi.net/) - Programmatic Screenshots of Any Website in Seconds.
 * [Shopify](https://shopify.com/) - Build your business.
 * [Stripe](https://stripe.com) - The new standard in online payments.
 * [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
