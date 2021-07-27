@@ -71,9 +71,13 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Super](https://super.so) - Build websites with the simplicity of Notion.
 * [Webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
-## Misc
+## Marketing
 
 * [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
+* [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
+
+## Misc
+
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
@@ -83,6 +87,4 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Stripe](https://stripe.com) - The new standard in online payments.
 * [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
-
-
 
