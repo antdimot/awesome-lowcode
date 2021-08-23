@@ -22,6 +22,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Automation
 
 * [Appian](https://www.appian.com/) - Discover the power of low-code automation.
+* [Axiom](https://axiom.ai/) - Browser automation. Quickly, without code.
 * [Integromat](https://www.integromat.com) - The most advanced online automation platform.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
@@ -59,6 +60,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
 * [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
+* [Heyflow](https://heyflow.app/) - Build interactive flows.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
