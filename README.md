@@ -46,12 +46,14 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Machine Learning
 
 * [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
+* [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 * [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
 * [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 * [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
 * [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
 * [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
 * [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
+* [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
 * [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 * [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 
@@ -100,6 +102,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Screenshot](https://www.screenshotapi.net/) - Programmatic Screenshots of Any Website in Seconds.
 * [Shopify](https://shopify.com/) - Build your business.
 * [Stripe](https://stripe.com) - The new standard in online payments.
+* [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 * [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 
