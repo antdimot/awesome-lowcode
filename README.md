@@ -63,6 +63,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative.
 * [Caspio](https://www.caspio.com/) - Building online database applications without coding.
 * [Coda](https://coda.io/) - All-in-one doc.
+* [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 * [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 
 ## Visual programming
