@@ -102,6 +102,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+* [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 * [placeid](https://placid.app/) - Generate your social share images automatically.
 * [SaaS Blocks](https://saasblocks.io/) - Ready-to-use building blocks and APIs to take your SaaS application to the next level
 * [Screenshot](https://www.screenshotapi.net/) - Programmatic Screenshots of Any Website in Seconds.
