@@ -98,6 +98,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Misc
 
+* [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
