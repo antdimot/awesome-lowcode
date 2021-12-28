@@ -42,6 +42,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
+* [Stately](https://stately.ai/) - The ideal state of visual application logic.
 * [Wayscript](https://wayscript.com) - A rapid scripting platform for developers.
 * [Zapier](https://zapier.com) - Connect your apps and automate workflows.
 
