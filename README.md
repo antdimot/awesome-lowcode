@@ -22,6 +22,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Automation
 
 * [Appian](https://www.appian.com/) - Discover the power of low-code automation.
+* [Automate.io](https://automate.io) - Connect your cloud apps.
 * [Axiom](https://axiom.ai/) - Browser automation. Quickly, without code.
 * [Camunda](https://camunda.com/) - Automate Any Process, Anywhere.
 * [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
