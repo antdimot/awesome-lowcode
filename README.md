@@ -80,6 +80,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
 * [Boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
 * [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
+* [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
 * [Heyflow](https://heyflow.app/) - Build interactive flows.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
