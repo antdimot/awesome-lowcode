@@ -26,7 +26,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Axiom](https://axiom.ai/) - Browser automation. Quickly, without code.
 * [Camunda](https://camunda.com/) - Automate Any Process, Anywhere.
 * [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
-* [Integromat](https://www.integromat.com) - The most advanced online automation platform.
+* [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
