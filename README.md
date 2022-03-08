@@ -39,6 +39,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Flow-based programming
 
 * [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
+* [Bravo Studio](https://www.bravostudio.app/) - Bravo’s powerful no-code approach to mobile app development.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 * [n8n.io](https://n8n.io/) - Extendable workflow automation.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
@@ -71,6 +72,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Coda](https://coda.io/) - All-in-one doc.
 * [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 * [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
+* [Rows](https://rows.com/) - The spreadsheet with superpowers.
 
 ## Visual programming
 
