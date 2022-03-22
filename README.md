@@ -114,6 +114,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
+* [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 * [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 * [placeid](https://placid.app/) - Generate your social share images automatically.
