@@ -113,6 +113,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
+* [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
