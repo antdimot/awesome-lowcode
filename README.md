@@ -73,6 +73,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 * [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 * [Rows](https://rows.com/) - The spreadsheet with superpowers.
+* [Supabase](https://supabase.com/) - The Open SourceFirebase Alternative.
 
 ## Visual programming
 
