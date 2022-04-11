@@ -41,9 +41,9 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
 * [Bravo Studio](https://www.bravostudio.app/) - Bravo’s powerful no-code approach to mobile app development.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
-* [n8n.io](https://n8n.io/) - Extendable workflow automation.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
+* [n8n.io](https://n8n.io/) - Extendable workflow automation.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
 * [Stately](https://stately.ai/) - The ideal state of visual application logic.
@@ -71,6 +71,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative.
 * [Caspio](https://www.caspio.com/) - Building online database applications without coding.
 * [Coda](https://coda.io/) - All-in-one doc.
+* [Hasura](https://hasura.io/) - From your databases to a unified GraphQL API in just one minute.
 * [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 * [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 * [Rows](https://rows.com/) - The spreadsheet with superpowers.
