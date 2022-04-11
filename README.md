@@ -96,6 +96,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Insomnia](https://insomnia.rest) - Build APIs that work.
 * [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
+* [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
 * [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
