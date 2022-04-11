@@ -82,6 +82,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Appbase.io](https://www.appbase.io) - Elasticsearch supercharged.
 * [AppSheet](https://www.appsheet.com/) - The intelligent no‑code platform.
 * [Appsmith](https://www.appsmith.com/) - A powerful open source framework to build internal tools.
+* [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 * [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
 * [Boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
 * [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
