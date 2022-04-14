@@ -47,6 +47,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
 * [Stately](https://stately.ai/) - The ideal state of visual application logic.
+* [Structr](https://structr.com) - The visualization of the data and program structures as a graph accelerates the development and makes the results easily comprehensible for everyone at any time.
 * [Wayscript](https://wayscript.com) - A rapid scripting platform for developers.
 * [Zapier](https://zapier.com) - Connect your apps and automate workflows.
 
