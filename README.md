@@ -71,6 +71,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Online database creator apps
 
 * [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
+* [Amplication](https://amplication.com/) - Build production-ready Node.js applications without wasting time on repetitive coding.
 * [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative.
 * [Caspio](https://www.caspio.com/) - Building online database applications without coding.
 * [Coda](https://coda.io/) - All-in-one doc.
