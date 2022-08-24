@@ -45,6 +45,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
+* [Kissflow](https://kissflow.com) - The full spectrum of work on one platform.
 * [n8n.io](https://n8n.io/) - Extendable workflow automation.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
@@ -85,7 +86,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
 * [Appbase.io](https://www.appbase.io) - Elasticsearch supercharged.
-* [AppSheet](https://www.appsheet.com/) - The intelligent no‑code platform.
+* [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 * [Appsmith](https://www.appsmith.com/) - A powerful open source framework to build internal tools.
 * [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 * [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
