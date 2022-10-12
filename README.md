@@ -44,6 +44,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Bravo Studio](https://www.bravostudio.app/) - Bravo’s powerful no-code approach to mobile app development.
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
+* [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
 * [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
 * [Kissflow](https://kissflow.com) - The full spectrum of work on one platform.
 * [n8n.io](https://n8n.io/) - Extendable workflow automation.
