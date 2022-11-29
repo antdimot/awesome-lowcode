@@ -50,6 +50,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [n8n.io](https://n8n.io/) - Extendable workflow automation.
 * [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
+* [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast with no code. And with code-level control when you need it.
 * [Runnable](https://getrunnable.com/) - A low-code framework for building user-facing internal workflows.
 * [Stately](https://stately.ai/) - The ideal state of visual application logic.
 * [Structr](https://structr.com) - The visualization of the data and program structures as a graph accelerates the development and makes the results easily comprehensible for everyone at any time.
@@ -131,6 +132,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
+* [Linx](https://linx.software) - General-purpose low-code platform for building custom backends APIs, automations and integrations
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 * [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 * [placeid](https://placid.app/) - Generate your social share images automatically.
