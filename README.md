@@ -15,6 +15,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Automation](#automation)
 * [Educational](#educational)
 * [Flow-based programming](#flow-based-programming)
+* [Machine Learning](#machine-learning)
+* [Marketing](#marketing)
 * [Online database creator apps](#online-database-creator-apps)
 * [Visual programming](#visual-programming)
 * [Misc](#misc)
@@ -72,6 +74,12 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
 * [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 * [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
+* [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
+
+## Marketing
+
+* [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
+* [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 
 ## Online database creator apps
 
@@ -121,10 +129,6 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Typedream](https://typedream.com) - The new way to make a website.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 
-## Marketing
-
-* [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
-* [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 
 ## Misc
 
