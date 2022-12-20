@@ -131,6 +131,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Typedream](https://typedream.com) - The new way to make a website.
 * [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
+* [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
 
 
 ## Misc
