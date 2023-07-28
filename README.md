@@ -123,6 +123,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 * [Cloudscape](https://cloudscape.design/) - An open source design system for the cloud.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
+* [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
 * [Heyflow](https://heyflow.app/) - Build interactive flows.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
@@ -132,13 +133,13 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 * [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
-* [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
+* [Potion](https://www.potion.so/) - Create custom websites in minutes. All on [Notion](https://www.notion.so/).
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
 * [Sanity](https://www.sanity.io/) - The unified content platform.
 * [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
-* [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
+* [Shuffle](https://shuffle.dev/) - Create templates in minutes.
 * [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 * [Stacker](https://stacker.app) - Turn your spreadsheets into applications.
 * [Storybook](https://storybook.js.org) - Build component driven UIs faster.
