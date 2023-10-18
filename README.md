@@ -81,6 +81,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
 * [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
 * [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
+* [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 * [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
 * [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
