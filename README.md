@@ -140,6 +140,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
+* [REI3](https://rei3.de/en/home) - The free and open low code platform for your business
 * [Sanity](https://www.sanity.io/) - The unified content platform.
 * [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
 * [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
