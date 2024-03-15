@@ -12,15 +12,36 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 # Table of Contents
 
+* [AI](#ai)
 * [Automation](#automation)
 * [Educational](#educational)
 * [Flow-based programming](#flow-based-programming)
 * [Infrastructure](#infrastructure)
-* [Machine Learning](#machine-learning)
 * [Marketing](#marketing)
 * [Online database creator apps](#online-database-creator-apps)
 * [Visual programming](#visual-programming)
 * [Misc](#misc)
+
+## AI
+
+* [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
+* [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
+* [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
+* [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+* [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
+* [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
+* [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
+* [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
+* [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
+* [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
+* [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
+* [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+* [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
+* [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
+* [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
+* [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
+* [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
+* [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
 
 ## Automation
 
@@ -52,6 +73,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Hookdeck](https://hookdeck.com/) - Never miss a webhook.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
+* [IoTCatalyst](https://www.iotcatalyst.com) - A Low Code/No Code IoT Edge Platform that offers IoT DevOps and IoT Device Management tools to make the IoT simpler.
 * [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
 * [Kissflow](https://kissflow.com) - The full spectrum of work on one platform.
 * [Memberstack](https://www.memberstack.com/) - Authentication & payments for companies who love Webflow, Stripe, & React.
@@ -69,25 +91,6 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Infrastructure
 
 * [harpoon](https://www.harpoon.io/) - Deploy software with No Code Kubernetes.
-
-## Machine Learning
-
-* [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
-* [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
-* [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
-* [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
-* [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
-* [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
-* [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
-* [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
-* [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
-* [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
-* [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
-* [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
-* [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
-* [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
-* [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
-* [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
 
 ## Marketing
 
@@ -123,23 +126,27 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 * [Cloudscape](https://cloudscape.design/) - An open source design system for the cloud.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
+* [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
 * [Heyflow](https://heyflow.app/) - Build interactive flows.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
+* [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Insomnia](https://insomnia.rest) - Build APIs that work.
 * [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
+* [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
 * [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
 * [Observable](https://observablehq.com/) - Push the limits of data visualization.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 * [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
-* [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
+* [Potion](https://www.potion.so/) - Create custom websites in minutes. All on [Notion](https://www.notion.so/).
 * [Power Apps](https://powerapps.microsoft.com) - Create the high productivity apps you need for your business with an advanced set of tools.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
+* [REI3](https://rei3.de/en/home) - The free and open low code platform for your business
 * [Sanity](https://www.sanity.io/) - The unified content platform.
 * [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
-* [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
+* [Shuffle](https://shuffle.dev/) - Create templates in minutes.
 * [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 * [Stacker](https://stacker.app) - Turn your spreadsheets into applications.
 * [Storybook](https://storybook.js.org) - Build component driven UIs faster.
@@ -148,8 +155,6 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 * [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
-* [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
-
 
 ## Misc
 
