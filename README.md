@@ -152,6 +152,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Storybook](https://storybook.js.org) - Build component driven UIs faster.
 * [Super](https://super.so) - Build websites with the simplicity of Notion.
 * [Typedream](https://typedream.com) - The new way to make a website.
+* [UI Bakery](https://uibakery.io) - Custom web applications at speed.
 * [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 * [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
