@@ -177,4 +177,5 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 * [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
+* [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 
