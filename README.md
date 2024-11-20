@@ -165,6 +165,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
+* [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
+* [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 * [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
