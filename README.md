@@ -160,6 +160,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 * [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
+* [Tabbled](https://tabbled.org) - Self-hosted low-code platform for business applications like CRM, ERP, WMS, etc.
 
 ## Misc
 
