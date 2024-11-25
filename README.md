@@ -116,6 +116,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Visual programming
 
 * [Adalo](https://www.adalo.com/) - Turn Your Amazing App Concept Into Reality Without Coding!
+* [WeWeb](https://www.weweb.io/) - A no-code frontend builder that connects to any backend to build scaable and secure web applications 10x faster. 
 * [Appbase.io](https://www.appbase.io) - Elasticsearch supercharged.
 * [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 * [Appsmith](https://www.appsmith.com/) - A powerful open source framework to build internal tools.
