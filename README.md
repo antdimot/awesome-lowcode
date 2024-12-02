@@ -98,6 +98,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 * [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 * [Datawave](https://datawave.app) - Startup Marketing Platform
+* [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
 
 ## Online database creator apps
 
