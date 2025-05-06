@@ -54,6 +54,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Camunda](https://camunda.com/) - Automate Any Process, Anywhere.
 * [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
 * [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
+* [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 * [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
