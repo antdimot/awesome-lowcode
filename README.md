@@ -151,6 +151,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Quarkly](https://quarkly.io) - Design tool for creating websites and web apps.
 * [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
 * [REI3](https://rei3.de/en/home) - The free and open low code platform for your business
+* [Rierino](https://rierino.com/) - Low-code backend microservice and AI agent development platform.
 * [Sanity](https://www.sanity.io/) - The unified content platform.
 * [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
 * [Shuffle](https://shuffle.dev/) - Create templates in minutes.
