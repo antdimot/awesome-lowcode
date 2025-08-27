@@ -178,6 +178,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
+* [Itura](https://itura-ai.com) - Build your own AI conversational, database-backed apps.
 * [Linx](https://linx.software) - General-purpose low-code platform for building custom backends APIs, automations and integrations
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 * [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
