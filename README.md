@@ -39,6 +39,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
 * [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
+* [Pineify](https://pineify.app) - AI Pine Script Generator & Visual Editor.
 * [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
 * [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
 * [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
