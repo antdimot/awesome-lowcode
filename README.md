@@ -28,6 +28,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 * [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
 * [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+* [blank-space](https://www.blankspace.build/) - Open-source AI app builder. Alternative to v0, Lovable, and Bolt.
 * [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 * [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 * [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
