@@ -176,6 +176,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
 * [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 * [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
+* [DocuPotion](https://docupotion.com/) - Generate PDFs at scale in Bubble and Airtable.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
 * [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
