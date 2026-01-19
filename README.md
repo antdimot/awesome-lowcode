@@ -63,6 +63,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
 * [Stackby](https://stackby.com/) - Automate workflows, build custom tools, collaborate with your team.
+* [SheetsToLabels](https://sheetstolabels.com/) - Automate label printing workflows directly from Google Sheets, Excel, and CSV.
 * [tines](https://www.tines.com/) - No-code automation for security teams.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
 
