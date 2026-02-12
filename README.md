@@ -46,6 +46,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Low-code Multi-AI Agents framework with YAML configuration, 100+ LLM support, MCP integration, and agentic workflows.
 * [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 * [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
+* [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
 * [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
 
 ## Automation
