@@ -81,6 +81,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Hookdeck](https://hookdeck.com/) - Never miss a webhook.
 * [Ifttt](https://ifttt.com/) - Helps your apps and devices work together in new ways.
 * [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
+* [Iotellect](https://iotellect.com) - A low-code IoT platform for building device integration, data collection, and real-time visualization solutions. Supports MQTT, OPC UA, Modbus, and 50+ protocols with drag-and-drop UI builder and edge-to-cloud processing.
 * [IoTCatalyst](https://www.iotcatalyst.com) - A Low Code/No Code IoT Edge Platform that offers IoT DevOps and IoT Device Management tools to make the IoT simpler.
 * [joonbot](https://joonbot.com/) - Make a chatbot in minutes with our intuitive no-code chatbot builder.
 * [Kissflow](https://kissflow.com) - The full spectrum of work on one platform.
