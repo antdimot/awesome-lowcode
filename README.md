@@ -50,6 +50,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 * [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
 * [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
+* [Voiceflow](https://www.voiceflow.com/) - Build, launch, and scale advanced AI agents for support, lead generation, and beyond.
 
 ## Automation
 
@@ -204,7 +205,6 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Tachybase](https://github.com/tachybase/tachybase) - Tachybase is a pluggable application framework., where developers can build complex application logic, while core developers focus on ensuring the stability of key modules and adapting to different environments.
 * [TemplateFox](https://pdftemplateapi.com) - Generate PDFs from reusable templates via API with a visual editor and multi-language SDKs.
 * [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
-* [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 * [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 
