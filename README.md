@@ -51,7 +51,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
 * [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
 * [Voiceflow](https://www.voiceflow.com/) - Build, launch, and scale advanced AI agents for support, lead generation, and beyond.
-
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent capabilities.
 ## Automation
 
 * [Appian](https://www.appian.com/) - Discover the power of low-code automation.
@@ -207,4 +207,3 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 * [FormNX](https://formnx.com) - Create forms in minutes without Coding for Free. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
-
