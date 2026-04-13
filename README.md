@@ -65,6 +65,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
 * [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 * [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
 * [Stackby](https://stackby.com/) - Automate workflows, build custom tools, collaborate with your team.
