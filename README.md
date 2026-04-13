@@ -32,6 +32,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 * [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 * [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
+* [Forge](https://forge-web.rebaselabs.online/) - AI-powered full-stack app creator. BYOK (bring your own API key) with Anthropic, OpenAI, or Google AI. Multi-stage pipeline generates SSR-first Next.js applications.
 * [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
 * [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 * [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
