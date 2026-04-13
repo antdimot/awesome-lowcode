@@ -60,6 +60,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Axiom](https://axiom.ai/) - Browser automation. Quickly, without code.
 * [Bardeen](https://www.bardeen.ai/) - Integrate and automate your favorite apps with our AI automation platform.
 * [Blink](https://www.blinkops.com) - No-code automation for CloudOps.
+* [BulkPublish](https://www.bulkpublish.com) - Social media API for publishing to 11 platforms (Facebook, Instagram, X, TikTok, YouTube, LinkedIn, and more). Integrates with Zapier, n8n, Make.com, and IFTTT. Free tier available.
 * [Camunda](https://camunda.com/) - Automate Any Process, Anywhere.
 * [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
 * [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
