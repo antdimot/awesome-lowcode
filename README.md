@@ -202,6 +202,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [SaaS Blocks](https://saasblocks.io/) - Ready-to-use building blocks and APIs to take your SaaS application to the next level
 * [Screenshot](https://www.screenshotapi.net/) - Programmatic Screenshots of Any Website in Seconds.
 * [Shopify](https://shopify.com/) - Build your business.
+* [ShopSavvy](https://shopsavvy.com/data) - Product data API with real-time pricing from thousands of retailers and price history.
 * [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 * [Stripe](https://stripe.com) - The new standard in online payments.
 * [ToolJet](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
