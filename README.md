@@ -73,6 +73,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [SheetsToLabels](https://sheetstolabels.com/) - Automate label printing workflows directly from Google Sheets, Excel, and CSV.
 * [tines](https://www.tines.com/) - No-code automation for security teams.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
+* [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 
 ## Educational
 
