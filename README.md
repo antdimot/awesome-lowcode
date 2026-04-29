@@ -215,3 +215,6 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 
 - [NoCodeVista](https://nocodevista.com/) - No-code website builder for creating professional websites visually â€” no coding needed.
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
