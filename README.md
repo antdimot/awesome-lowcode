@@ -79,7 +79,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [Doc Willianms](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA) - No Code tutorials.
 * [Markerpad](https://www.makerpad.co/) - Join thousands learning to build software. No coding required.
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Flow-based programming
 
