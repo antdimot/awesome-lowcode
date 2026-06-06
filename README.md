@@ -50,6 +50,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 * [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
 * [Taskade](https://taskade.com) - Build custom AI agents, workflows, and apps using natural language. Multi-model AI platform with GPT, Claude, and Gemini support.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 payment verification MCP server for AI agents on Solana. Free wallet scoring, paid trust receipts via HTTP 402.
 * [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
 * [Voiceflow](https://www.voiceflow.com/) - Build, launch, and scale advanced AI agents for support, lead generation, and beyond.
 * [Oinone](https://github.com/oinone/oinone-pamirs) - AI-native, 100% metadata/model-driven low-code framework where AI and developers share one metadata model. Built for complex enterprise scenarios, self-hostable. Open source (Java+TS, AGPL-3.0).
