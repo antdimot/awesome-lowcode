@@ -42,6 +42,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Midjourney](https://www.midjourney.com) - It is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 * [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
 * [Pineify](https://pineify.app) - AI Pine Script Generator & Visual Editor.
+* [Playcode](https://playcode.io/ai-website-builder) - AI website and app builder that creates and hosts web apps from text prompts.
 * [RapidMiner](https://rapidminer.com/products/studio/) - Comprehensive data science platform with visual workflow design and full automation.
 * [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 * [Runway](https://runwayml.com/) - It is your next-generation content creation suite.
