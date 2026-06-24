@@ -185,6 +185,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [TrackVia](https://trackvia.com) - Cloud-based work management platform for enterprise.
 * [Typedream](https://typedream.com) - The new way to make a website.
 * [UI Bakery](https://uibakery.io) - Custom web applications at speed.
+* [UnfoldCMS](https://unfoldcms.com) - Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui. 205 admin pages, headless REST API v1 (42 endpoints), HMAC-signed webhooks, and native support for Next.js, Astro, SvelteKit, and Nuxt frontends. One-time pricing.
 * [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 * [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
