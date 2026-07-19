@@ -72,6 +72,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 * [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
 * [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+* [Orion](https://github.com/GoPlasmatic/Orion) - Declarative services runtime; build REST/Kafka services as JSON workflows without writing code.
 * [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 * [Endtest](https://endtest.io/) - AI-powered end-to-end testing without writing code.
 * [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
