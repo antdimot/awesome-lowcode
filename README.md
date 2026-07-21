@@ -36,6 +36,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
 * [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 * [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
+* [Heym](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
 * [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
 * [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
 * [Landing AI](https://landing.ai/) - Building computer vision systems in minutes via natural prompting interactions.
