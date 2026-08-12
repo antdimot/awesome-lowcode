@@ -83,6 +83,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [tines](https://www.tines.com/) - No-code automation for security teams.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
 * [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
+* [n8n Solana Price Alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free, no-code n8n workflow that alerts on Telegram when a Solana SPL token price crosses a threshold.
 
 ## Educational
 
