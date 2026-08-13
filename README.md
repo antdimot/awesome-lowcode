@@ -84,6 +84,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Uipath](https://www.uipath.com/) - We make robots so people don’t have to be  robots.
 * [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 - [n8n Workflow Packs](https://github.com/DeusAcc/n8n-workflow-packs) - Tested, ready-to-import n8n workflows (website change watcher, lead capture, RSS keyword alert).
+- [n8n Workflow Packs](https://github.com/DeusAcc/n8n-workflow-packs) - Tested, ready-to-import n8n workflows (website change watcher, lead capture, RSS keyword alert).
 
 ## Educational
 
