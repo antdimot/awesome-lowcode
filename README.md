@@ -205,6 +205,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 * [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software.
 * [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
+* [CapMonster Cloud](https://capmonster.cloud) - Cloud captcha solving service for reCAPTCHA, Cloudflare Turnstile and other captcha types, useful for automation, scraping and no-code workflows.
 * [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 * [DocuPotion](https://docupotion.com/) - Generate PDFs at scale in Bubble and Airtable.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
