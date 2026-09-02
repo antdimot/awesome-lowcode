@@ -174,6 +174,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
 * [Lowcoder](https://lowcoder.cloud/) - A low-code platform that allows users to build custom software applications with minimal coding
 * [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
+* [Naratake](https://naratake.com/en) - Drag-and-drop website builder for local businesses with 40 industry starting points, 111 components and 15 design styles. Publishes a real Next.js app with full source-code export.
 * [Oaysus](https://github.com/oaysus/cli) - Visual page builder for developer-built components. Build React, Vue, or Svelte components and push with one CLI command.
 * [Observable](https://observablehq.com/) - Push the limits of data visualization.
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
