@@ -138,6 +138,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way.
 * [Amplication](https://amplication.com/) - Build production-ready Node.js applications without wasting time on repetitive coding.
 * [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative.
+* [Busabase](https://busabase.com/) - Open-source database and workspace for AI agents that turns agent output into data, docs, skills, and apps with human-reviewed changes.
 * [Caspio](https://www.caspio.com/) - Building online database applications without coding.
 * [Claris](https://www.claris.com/) - Quickly build custom apps yourself that you can’t find anywhere else.
 * [Coda](https://coda.io/) - All-in-one doc.
