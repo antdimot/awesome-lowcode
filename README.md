@@ -166,6 +166,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Convertigo](https://www.convertigo.com/) - Open-source enterprise low-code platform with AI-assisted app development for governed web and mobile applications, backend workflows, and integrations.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
 * [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
+* [Figment.so](https://figment.so/) - Publish Figma designs as websites through a Figma plugin.
 * [Heyflow](https://heyflow.app/) - Build interactive flows.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
