@@ -143,6 +143,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Claris](https://www.claris.com/) - Quickly build custom apps yourself that you can’t find anywhere else.
 * [Coda](https://coda.io/) - All-in-one doc.
 * [Hasura](https://hasura.io/) - From your databases to a unified GraphQL API in just one minute.
+* [Nhost](https://nhost.io) - Open source Postgres backend with a dashboard for tables and permissions, an instant GraphQL API, auth, storage and functions.
 * [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 * [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 * [RootCX](https://rootcx.com/) - One place for every internal app and AI agent. Shared database, SSO, RBAC, audit logs, and integrations.
