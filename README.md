@@ -98,6 +98,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [AppFlow](https://aws.amazon.com/appflow/) -  Securely integrate apps and automate data flows at any scale, without code.
 * [Bravo Studio](https://www.bravostudio.app/) - Bravo’s powerful no-code approach to mobile app development.
+* [Ciaren](https://ciaren.com) - Open-source, local-first visual ETL and ML workflow builder that exports readable pandas or Polars code.
 * [CodeZero](https://codezero.build) - Source-available automation platform with a visual flow editor; connect a trigger and chain logic node by node to build integrations, scheduled jobs, and HTTP endpoints that act as a visual backend. Self-hostable, extensible via plugins, with AI-assisted flow editing (bring your own model).
 * [Funnel](https://funnel.io/) - All your marketing and advertising data where you want it.
 * [Hookdeck](https://hookdeck.com/) - Never miss a webhook.
