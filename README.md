@@ -201,6 +201,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 * [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
 * [Tabbled](https://tabbled.org) - Self-hosted low-code platform for business applications like CRM, ERP, WMS, etc.
+* [BuzzBlender Kiosk Editor](https://kiosk.buzzblender.com/) - No-code kiosk interface builder for creating button-based experiences with video, images and text, with preview and standalone HTML export.
 
 ## Misc
 
