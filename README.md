@@ -128,6 +128,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 * [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
 * [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
+* [thirds.ai](https://thirds.ai/) - Make branded images and PDFs from editable templates in a studio, AI assistant, or API.
 * [Klaviyo](https://www.klaviyo.com/) - Ecommerce marketing automation platform.
 * [Datawave](https://datawave.app) - Startup Marketing Platform
 * [PageStrike](https://pagestrike.com) - AI landing page builder for marketing campaigns. Generates copy, photos, and lead capture form in 2 minutes. Native COD, 0% commission, 10+ languages including Arabic RTL.
