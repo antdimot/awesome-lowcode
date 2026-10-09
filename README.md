@@ -144,6 +144,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Coda](https://coda.io/) - All-in-one doc.
 * [Hasura](https://hasura.io/) - From your databases to a unified GraphQL API in just one minute.
 * [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
+* [PHPRunner](https://xlinesoft.com/phprunner/index.htm) - Commercial low-code builder for database-driven PHP web applications with visual design, authentication, reports, and self-hosted deployment.
 * [Retool](https://retool.com/) - Retool cuts the time it takes to build internal tools in half so you can focus on your customers.
 * [RootCX](https://rootcx.com/) - One place for every internal app and AI agent. Shared database, SSO, RBAC, audit logs, and integrations.
 * [Rows](https://rows.com/) - The spreadsheet with superpowers.
