@@ -219,6 +219,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 * [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 * [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
+* [OMEGA](https://omegajs.dev) - Config-driven framework that builds a website, backend, desktop app and browser extension from one file, with auth, payments and email already wired.
 * [placeid](https://placid.app/) - Generate your social share images automatically.
 * [SaaS Blocks](https://saasblocks.io/) - Ready-to-use building blocks and APIs to take your SaaS application to the next level
 * [Screenshot](https://www.screenshotapi.net/) - Programmatic Screenshots of Any Website in Seconds.
