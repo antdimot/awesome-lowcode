@@ -171,6 +171,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
 * [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
+* [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export.
 * [Insomnia](https://insomnia.rest) - Build APIs that work.
 * [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
 * [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
