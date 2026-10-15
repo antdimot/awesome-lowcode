@@ -90,6 +90,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Educational
 
+* [Benian n8n Automation Catalog](https://benian-technologies.github.io/automation-templates/) - n8n workflow examples with setup guides and runnable walkthroughs using fictional data.
 * [Doc Willianms](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA) - No Code tutorials.
 * [Markerpad](https://www.makerpad.co/) - Join thousands learning to build software. No coding required.
 * [TutorialSearch](https://tutorialsearch.io/browse/web-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
