@@ -172,6 +172,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Insomnia](https://insomnia.rest) - Build APIs that work.
+* [Icybiz](https://icybiz.com/) - Build and publish free websites with a visual editor and hosted pages.
 * [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
 * [Loopple](https://www.loopple.com) - Drag and drop dashboard builder
 * [Lowcoder](https://lowcoder.cloud/) - A low-code platform that allows users to build custom software applications with minimal coding
