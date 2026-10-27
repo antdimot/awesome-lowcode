@@ -123,6 +123,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## Infrastructure
 
 * [harpoon](https://www.harpoon.io/) - Deploy software with No Code Kubernetes.
+* [Light Cloud](https://light-cloud.com) - Deploy static sites, containers and APIs from GitHub, GitLab or Bitbucket without configuring servers. Free plan available.
 
 ## Marketing
 
