@@ -148,6 +148,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [RootCX](https://rootcx.com/) - One place for every internal app and AI agent. Shared database, SSO, RBAC, audit logs, and integrations.
 * [Rows](https://rows.com/) - The spreadsheet with superpowers.
 * [Supabase](https://supabase.com/) - The Open SourceFirebase Alternative.
+* [Teable](https://teable.ai/) - PostgreSQL-backed collaborative database with a spreadsheet interface, forms, multiple views, and a self-hosted community edition.
 
 ## Visual programming
 
