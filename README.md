@@ -25,6 +25,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 ## AI
 
 * [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
+* [Agentivity](https://www.agentivity.io/) - Build teams of AI agents and workflows without code, with a person approving where you choose.
 * [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 * [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
 * [AnveVoice](https://anvevoice.app) - AI voice agent for websites — embed a voice AI assistant with no code. One-line JS snippet, trains on your content, 50+ languages.
