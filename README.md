@@ -64,6 +64,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 
 ## Automation
 
+* [airtable-to-google-sheets](https://github.com/viewcourier/airtable-to-google-sheets) - Google Apps Script that syncs an Airtable table or view into a Google Sheet on an hourly or daily schedule. Free, open source (MIT).
 * [Appian](https://www.appian.com/) - Discover the power of low-code automation.
 * [Automate.io](https://automate.io) - Connect your cloud apps.
 * [Axiom](https://axiom.ai/) - Browser automation. Quickly, without code.
