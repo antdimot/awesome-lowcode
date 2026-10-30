@@ -211,6 +211,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python.
 * [CapMonster Cloud](https://capmonster.cloud) - Cloud captcha solving service for reCAPTCHA, Cloudflare Turnstile and other captcha types, useful for automation, scraping and no-code workflows.
 * [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
+* [CurlShot](https://curlshot.com) - Screenshot API that turns a URL, HTML or Markdown into PNG, JPEG, WebP or PDF, with an n8n community node and a remote MCP server.
 * [DocuPotion](https://docupotion.com/) - Generate PDFs at scale in Bubble and Airtable.
 * [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 * [Fibery](https://fibery.io) - Build your own workspace.
