@@ -29,7 +29,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
 * [AnveVoice](https://anvevoice.app) - AI voice agent for websites — embed a voice AI assistant with no code. One-line JS snippet, trains on your content, 50+ languages.
 * [AutoGen](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
-* [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
+* [ClaudFlow](https://claudflow.com/) - Free browser-based builder for AI prompt chains: drag Input, AI Prompt, Condition, Transform and Output blocks onto a canvas, connect them and export the chain as JSON; no account needed.
 * [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 * [Erupt](https://github.com/erupts/erupt) - Annotation-driven Java/Spring Boot admin framework and AI harness. One annotated JPA entity becomes a full admin page with RBAC, Excel import/export and OpenAPI; ships 50+ LLM providers, MCP-native tools and A2A agents configurable from the admin UI. Self-hostable, open source (Java, Apache-2.0).
 * [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
