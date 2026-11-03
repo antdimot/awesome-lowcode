@@ -182,6 +182,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [FlutterFlow](https://www.flutterflow.io) - Build applications faster than ever.
 * [Helmpages](https://helmpages.com/) - Websites for independent professionals and small businesses, built and kept current by sending a message. Paid, with a free trial.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
+* [HtmlDrag](https://htmldrag.com/) - Visual editor for existing and AI-generated HTML pages, with drag-and-drop editing, element-level AI refinement, and HTML export.
 * [Insomnia](https://insomnia.rest) - Build APIs that work.
 * [Icybiz](https://icybiz.com/) - Build and publish free websites with a visual editor and hosted pages.
 * [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
