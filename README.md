@@ -38,6 +38,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 * [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
 * [Heym](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
+* [IdeaMade](https://ideamade.ai) - Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, live previews, and version history.
 * [Jasper](https://www.jasper.ai/) - Artificial intelligence makes it fast & easy to create content for your blog, social media, website, and more!
 * [kdpbook.io](https://kdpbook.io/?utm_source=awesome-lowcode&utm_medium=github) - No-code AI book studio: describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing sheet.
 * [Knime](https://www.knime.com/knime-analytics-platform) - Creating Data Science.
