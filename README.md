@@ -91,6 +91,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Upload-Post](https://www.upload-post.com) - Social media publishing API for posting and scheduling to TikTok, Instagram, YouTube, LinkedIn, X, and more. Integrates with Zapier, Make, and n8n, and has an MCP server. Free plan available.
 * [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 * [FlexiPage](https://flexipage.app/) - Document automation software for Airtable users and other no-code tools.
+* [looot](https://looot.ai) - Pay-per-call business data API for AI agents and automations: email and phone lookup, company enrichment, SERP and web scraping. Has an MCP server, REST API and an n8n node.
 
 ## Educational
 
