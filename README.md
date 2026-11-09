@@ -140,6 +140,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [PageStrike](https://pagestrike.com) - AI landing page builder for marketing campaigns. Generates copy, photos, and lead capture form in 2 minutes. Native COD, 0% commission, 10+ languages including Arabic RTL.
 * [Place Card Maker](https://placecard.us) - A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing.  No coding required
 * [Stripo](https://stripo.email) - No-code email design platform with 1,690+ templates and export to 90+ ESPs.
+* [Publora](https://publora.com) - Schedule and publish social media posts to 10 networks from a calendar, REST API or MCP server. Integrates with Zapier and n8n. Free plan available.
 
 ## Online database creator apps
 
