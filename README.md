@@ -177,6 +177,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Dronahq](https://www.dronahq.com) - Build business apps without coding.
 * [Dynaboard](https://dynaboard.com) - Build production-ready low-code web apps in 60 seconds using AI.
 * [Figment.so](https://figment.so/) - Publish Figma designs as websites through a Figma plugin.
+* [ForgeAdminFoundation](https://github.com/zhiyuxinxi/ForgeAdminFoundation) - Modified Forge Admin Java/Vue low-code foundation with Chinese/English display metadata and workflow integration.
 * [Heyflow](https://heyflow.app/) - Build interactive flows.
 * [Glide](https://www.glideapps.com/) - Create an app from a Google Sheet in five minutes, for free.
 * [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
