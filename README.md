@@ -166,6 +166,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Appbase.io](https://www.appbase.io) - Elasticsearch supercharged.
 * [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 * [Appsmith](https://www.appsmith.com/) - A powerful open source framework to build internal tools.
+* [AppStruct](https://appstruct.ai/app-builder?utm_source=awesome_lowcode&utm_medium=referral&utm_campaign=builder_catalog_20261115) - Visual no-code builder for web and mobile apps, with configurable screens, workflows, and database/API connections.
 * [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 * [AWS Application Composer](https://aws.amazon.com/application-composer/) - Visually design and build serverless applications quickly.
 * [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
