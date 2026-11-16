@@ -232,6 +232,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Itura](https://itura-ai.com) - Build your own AI conversational, database-backed apps.
 * [Linx](https://linx.software) - General-purpose low-code platform for building custom backends APIs, automations and integrations
 * [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+* [Mateu](https://github.com/miguelperezcolom/mateu) - Open-source model-driven UI framework: business screens declared in Java, C#, Python or YAML are rendered as web, mobile and desktop apps.
 * [MyVibe](https://myvibe.so/) - Instantly publish AI-generated web apps to permanent URLs in 60 seconds.
 * [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 * [placeid](https://placid.app/) - Generate your social share images automatically.
