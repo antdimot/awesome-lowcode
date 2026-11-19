@@ -32,6 +32,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 * [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 * [Erupt](https://github.com/erupts/erupt) - Annotation-driven Java/Spring Boot admin framework and AI harness. One annotated JPA entity becomes a full admin page with RBAC, Excel import/export and OpenAPI; ships 50+ LLM providers, MCP-native tools and A2A agents configurable from the admin UI. Self-hostable, open source (Java, Apache-2.0).
+* [Flangapp AI](https://flangapp.com) - Self-hosted white-label platform for running your own app-building service: your clients describe what they want and turn their websites into native iOS and Android apps. Full source code, one-time licence.
 * [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 * [Forge](https://forge-web.rebaselabs.online/) - AI-powered full-stack app creator. BYOK (bring your own API key) with Anthropic, OpenAI, or Google AI. Multi-stage pipeline generates SSR-first Next.js applications.
 * [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
