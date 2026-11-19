@@ -35,6 +35,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 * [Forge](https://forge-web.rebaselabs.online/) - AI-powered full-stack app creator. BYOK (bring your own API key) with Anthropic, OpenAI, or Google AI. Multi-stage pipeline generates SSR-first Next.js applications.
 * [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
+* [Ginta](https://ginta.app/) - AI website builder for small businesses: describe the business and get a live website with contact forms, bookings, an online shop and a blog. Also works from Claude or ChatGPT through a remote MCP server. Free plan; custom domains on paid plans.
 * [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
 * [h2o](https://www.h2o.ai/) - Get free, hands-on experience with the H2O AI Hybrid Cloud.
 * [Heym](https://github.com/heymrun/heym) - Self-hosted low-code platform for building and observing AI workflows with agents, RAG, MCP, and human approval steps.
